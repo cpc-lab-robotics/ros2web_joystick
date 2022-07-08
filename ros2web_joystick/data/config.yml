@@ -1,0 +1,11 @@
+hot_reload:
+  patterns: ["*.py", "*.yml"]
+process_disable: True
+Joystick:
+  size:
+    w: 2
+    h: 4
+    minW: 2
+    minH: 4
+    # maxW: 3
+    # maxH: 3
